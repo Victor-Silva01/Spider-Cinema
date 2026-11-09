@@ -1,0 +1,12 @@
+SPIDER CINEMA
+
+1. Instale Node.js.
+2. Abra esta pasta em um terminal.
+3. Execute: npm install
+4. Execute: npm run dev
+
+Os 26 pôsteres estão incluídos para uso local.
+O catálogo é demonstrativo; avaliações e disponibilidade de streaming não são inventadas.
+Os favoritos ficam no navegador, sem login.
+A integração TMDB é opcional e usa TMDB_API_TOKEN somente no servidor.
+Nenhuma chave privada foi incluída neste ZIP.
